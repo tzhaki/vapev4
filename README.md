@@ -1,6 +1,6 @@
 ONLY KRNL AND SYNAPSE ARE SUPPORTED
 
-I AM NOT ADDING ANYMORE
+not adding anymore executors
 
 stop telling me to add fluxus retards
 
